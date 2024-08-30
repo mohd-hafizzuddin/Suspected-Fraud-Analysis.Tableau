@@ -95,10 +95,7 @@ Other segments include Corporate and Home Office.
 **Connecting SSMS and Tableau Public via Excel**
 
 **Exporting Data from SSMS:**
-Data from the SSMS database is exported to Excel using the Export Data feature in SSMS.
-
-**Using Excel as an Intermediary:**
-Excel is used as an intermediary connection to link SSMS data to Tableau Public.
+Data from the SSMS database is exported to Microsoft Excel using Power Query.
 
 **Connecting Excel to Tableau Public:**
 The Excel file with the exported data is then imported into Tableau Public as a data source.
