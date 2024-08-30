@@ -7,7 +7,7 @@
 The Tableau Public dashboard provides insights into suspected fraud within the supply chain data. It includes various visualizations that help in understanding the trends and patterns of fraud over time. 
 
 **Datasource**
-You can download the datasource from my repository.
+You can download the datasource from here https://github.com/mohd-hafizzuddin/Suspected-Fraud-Analysis.Tableau/tree/main/supply%20chain%20dataset.
 
 ### Dashboard Components
 
